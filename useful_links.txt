@@ -1,0 +1,3 @@
+- Numerical tours: https://www.numerical-tours.com/python/
+
+- PyWavelet: https://pywavelets.readthedocs.io/en/latest/#
